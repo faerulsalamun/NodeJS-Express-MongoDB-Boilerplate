@@ -1,0 +1,6 @@
+#!/bin/sh
+
+export NODE_ENV=development
+export PORT=8080
+
+nodemon -e js NotificationWorker.js

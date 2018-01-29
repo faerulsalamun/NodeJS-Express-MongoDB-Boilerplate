@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+bower_components
+*.log
+.tmp
+.idea
+npm-debug.log
+log
+phantomjsdriver.log
+/assets/upload/*
+/config/production.js
+/config/live.js

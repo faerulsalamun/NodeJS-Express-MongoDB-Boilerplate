@@ -1,0 +1,25 @@
+{
+  "name": "Node",
+  "version": "0.1.0",
+  "homepage": "https://github.com/faerulsalamun/nodejs-boilerplate",
+  "description": "Node API",
+  "contributors": [
+    {
+      "name": "Faerul Salamun",
+      "email": "faerulsalamun@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "async": "~0.9.2",
+    "lodash": "~3.7.0"
+  }
+}

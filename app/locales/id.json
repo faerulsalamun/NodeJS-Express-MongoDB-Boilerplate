@@ -1,0 +1,11 @@
+{
+	"INCORRECT_USERNAME_OR_PASSWORD": "Username or Password Incorrect",
+	"EMAIL_NOT_VERIFIED": "Email not verified",
+	"EXTENSION_IMAGE_NOT_SUPPORT": "Extension image not support",
+	"DATA_NOT_FOUND": "Data not found",
+	"DATA_TYPE_LOAN_NOT_FOUND": "Data type loan not found",
+	"DATA_TIME_PERIOD_FOUND": "Data time period not found",
+	"TOTAL_LOAN_MUST_GREATER_THAN_DOWN_PAYMENT": "Total loan must greater than down payment",
+	"SUCCESS": "Success",
+	"CREATED": "Created"
+}
